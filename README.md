@@ -34,10 +34,6 @@ A Python-based financial analysis and valuation platform designed to support com
 - NumPy
 - Plotly
 
-## Status
-
-Currently under active development.
-
 ## Disclaimer
 
 This project is for educational and research purposes only and does not constitute investment advice.
