@@ -43,15 +43,25 @@ streamlit run app.py
 
 ## Screenshots
 
-Run the app locally and capture screenshots of:
+### Dashboard
 
-1. Dashboard
-2. DCF Valuation
-3. Comparable Companies
-4. Precedent Transactions
-5. Pitchbook Summary
+![Dashboard](assets/screenshots/dashboard.png)
 
-Suggested folder: `assets/screenshots/`.
+### DCF Valuation
+
+![DCF Valuation](assets/screenshots/dcf-valuation.png)
+
+### Comparable Companies
+
+![Comparable Companies](assets/screenshots/comparable-companies.png)
+
+### Precedent Transactions
+
+![Precedent Transactions](assets/screenshots/precedent-transactions.png)
+
+### Pitchbook Summary
+
+![Pitchbook Summary](assets/screenshots/pitchbook-summary.png)
 
 ## Future Improvements
 
@@ -62,7 +72,3 @@ Suggested folder: `assets/screenshots/`.
 - Add transaction fee, purchase accounting, and amortization schedules to the merger model.
 - Add better ticker search and source reconciliation.
 - Add saved cases by company.
-
-## CV Positioning
-
-This project is suitable to reference as a personal finance and analytics project for graduate investment banking applications, especially Technology & Services coverage roles.
